@@ -10,8 +10,8 @@ To run frontend code
 
 command:- npm run dev
 
-## For Backend
-Go to backend
+## For Backend(set your mongodb url in the .env file)
+Go to backend 
 
 **initialize**
 command:- npm i
